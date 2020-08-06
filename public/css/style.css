@@ -1,0 +1,12 @@
+ul.nav li:hover{
+	background:rgba(20,50,90,0.5) !important;
+}
+ul.nav li.active{
+	background:#000;
+}
+input.marksFields{
+	width:60px;
+}
+.well{
+	margin:30px;
+}
